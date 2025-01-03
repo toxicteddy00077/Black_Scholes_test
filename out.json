@@ -1,0 +1,12 @@
+[
+  {"stock_p": 100, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 105, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 110, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 115, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 120, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 125, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 130, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 135, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 140, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2},
+  {"stock_p": 145, "strike_p": 100, "exp_time": 1, "rf_rate": 0.05, "vol": 0.2}
+]
